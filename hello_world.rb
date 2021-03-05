@@ -1,6 +1,6 @@
 class HelloWorld
   def hello
-    puts 'hello mate v2'
+    puts 'hello mate v3'
   end
 end
 
